@@ -21,7 +21,7 @@ ArtistPro/ ├── client/ # Frontend React application
 
 🔽 Clone the Repository
 
-git clone [https://github.com/-dk/artistpro cd artistpro](https://github.com/Logesh01082002/ArtistPro.git)
+git clone : https://github.com/Logesh01082002/ArtistPro.git
 
 📦 Extract and Setup
 
