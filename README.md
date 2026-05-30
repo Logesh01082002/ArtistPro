@@ -22,7 +22,7 @@ ArtistPro/
 
 🔽 Clone the Repository
 
-git clone https://github.com/dhanushkumar-dk/artistpro
+git clone : https://github.com/Logesh01082002/ArtistPro.git
 cd artistpro
 
 ---
